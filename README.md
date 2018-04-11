@@ -6,7 +6,7 @@ The functionalities of the site, currently, are:
 * Back-end server that stores user data
 * Working login system with required field formats (for example, email address check using regex)
 * Payment using BitCoin
-** Live updating Bitcoin price relative to USD
+  * Live updating Bitcoin price relative to USD
 * Shopping Cart with delete/add functionalities
 * Contact Us form using PHPMailer, which is sent to a provided webmaster email
 * Differing pages and purchasing functionality restricted to validated/logged in users
